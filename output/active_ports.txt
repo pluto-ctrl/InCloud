@@ -1,0 +1,16 @@
+www.sshospital.cn:10000
+www.sshospital.cn:110
+www.sshospital.cn:443
+www.sshospital.cn:465
+www.sshospital.cn:7070
+www.sshospital.cn:80
+www.sshospital.cn:8000
+www.sshospital.cn:8080
+www.sshospital.cn:8081
+www.sshospital.cn:81
+www.sshospital.cn:8443
+www.sshospital.cn:88
+www.sshospital.cn:8888
+www.sshospital.cn:995
+www.sshospital.cn:9999
+wx.sshospital.cn:80
