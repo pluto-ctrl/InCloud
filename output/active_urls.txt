@@ -1,3 +1,11 @@
-http://www.alpts.cn
-http://www.alpts.cn:88
-https://www.alpts.cn
+http://bbs.gdsdkg.com
+http://cs.gdsdkg.com
+http://ct.gdsdkg.com
+http://cw.gdsdkg.com
+http://hd.gdsdkg.com
+http://hs.gdsdkg.com
+http://mail.gdsdkg.com
+http://wlxy.gdsdkg.com
+http://www.gdsdkg.com
+https://mail.gdsdkg.com
+https://wlxy.gdsdkg.com
